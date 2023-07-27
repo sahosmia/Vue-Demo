@@ -78,6 +78,14 @@ const isMenu = ref(false);
               >Blog</router-link
             >
           </li>
+
+          <li>
+            <router-link
+              class="text-gray-600 font-semibold px-3 hover:text-indigo-500 duration-300"
+              :to="{ name: 'team' }"
+              >Team</router-link
+            >
+          </li>
           <li>
             <router-link
               class="text-gray-600 font-semibold px-3 hover:text-indigo-500 duration-300"

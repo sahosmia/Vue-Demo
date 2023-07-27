@@ -38,8 +38,8 @@
       "img": "/img/blog/1.jpeg",
       "description": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse nihil, flexitarian Truffaut synth art party deep v chillwave. Seitan High Life reprehenderit consectetur cupidatat kogi. Et leggings fanny pack, elit bespoke vinyl art party Pitchfork selfies master cleanse Kickstarter seitan retro. Drinking vinegar stumptown yr pop-up artisan sunt. Deep v cliche lomo biodiesel Neutra selfies. Shorts fixie consequat flexitarian four loko tempor duis single-origin coffee. Banksy, elit small batch freegan sed.",
       "created_by": "Sahos Mia",
-      "created_at": "December 23, 2022",
-      "category_id": 1
+      "created_at": "Dec 23, 2022",
+      "category_id": "Education"
     },
     {
       "id": 2,
@@ -48,7 +48,7 @@
       "description": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse nihil, flexitarian Truffaut synth art party deep v chillwave. Seitan High Life reprehenderit consectetur cupidatat kogi. Et leggings fanny pack, elit bespoke vinyl art party Pitchfork selfies master cleanse Kickstarter seitan retro. Drinking vinegar stumptown yr pop-up artisan sunt. Deep v cliche lomo biodiesel Neutra selfies. Shorts fixie consequat flexitarian four loko tempor duis single-origin coffee. Banksy, elit small batch freegan sed.",
       "created_by": "Sahos Mia",
       "created_at": "Jun 23, 2023",
-      "category_id": 2
+      "category_id": "Travel"
     },
     {
       "id": 3,
@@ -56,8 +56,8 @@
       "img": "/img/blog/3.jpeg",
       "description": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse nihil, flexitarian Truffaut synth art party deep v chillwave. Seitan High Life reprehenderit consectetur cupidatat kogi. Et leggings fanny pack, elit bespoke vinyl art party Pitchfork selfies master cleanse Kickstarter seitan retro. Drinking vinegar stumptown yr pop-up artisan sunt. Deep v cliche lomo biodiesel Neutra selfies. Shorts fixie consequat flexitarian four loko tempor duis single-origin coffee. Banksy, elit small batch freegan sed.",
       "created_by": "Sahos Mia",
-      "created_at": "December 30, 2022",
-      "category_id": 3
+      "created_at": "Dec 30, 2022",
+      "category_id": "Shoping"
     }
   ],
   "categories": [
@@ -66,5 +66,62 @@
     { "id": 3, "title": "Pakage" },
     { "id": 4, "title": "Hotel" },
     { "id": 5, "title": "Food" }
+  ],
+  "teams_side": [
+    {
+      "id": 1,
+      "title": "Nicolas Williams",
+      "img": "/img/team/team-1.jpg",
+      "designation": "Founder & CEO",
+      "gmail": "nicolaswilliams@gmail.com"
+    },
+    {
+      "id": 2,
+      "title": "Stepen Felmen",
+      "img": "/img/team/team-3.jpg",
+      "designation": "Head of Creative",
+      "gmail": "staphenfelmen@gmail.com"
+    },
+    {
+      "id": 3,
+      "title": "Sharlin Shimth",
+      "img": "/img/team/team-2.jpg",
+      "designation": "Human Resource",
+      "gmail": "sharlin@gmail.com"
+    },
+    {
+      "id": 4,
+      "title": "Alex Boomra",
+      "img": "/img/team/team-4.jpg",
+      "designation": "Head of Softwer",
+      "gmail": "alexboomrah@gmail.com"
+    }
+  ],
+
+  "teams_circle": [
+    {
+      "id": 1,
+      "title": "Nicolas Williams",
+      "img": "/img/team/team-5.jpg",
+      "designation": "Founder & CEO"
+    },
+    {
+      "id": 2,
+      "title": "Stepen Felmen",
+      "img": "/img/team/team-6.jpg",
+      "designation": "Head of Creative"
+    },
+    {
+      "id": 3,
+      "title": "Sharlin Shimth",
+      "img": "/img/team/team-7.jpg",
+      "designation": "Human Resource"
+    },
+    {
+      "id": 4,
+      "title": "Alex Boomra",
+      "img": "/img/team/team-8.jpg",
+      "designation": "Human Resource"
+    }
   ]
 }

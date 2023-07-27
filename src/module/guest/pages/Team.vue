@@ -2,6 +2,11 @@
 
 import Head from "../../../components/Head.vue";
 import PageBanner from "../components/core/PageBanner.vue";
+import data from "../../../data/data.json";
+import TeamOne from "../components/team/TeamOne.vue";
+import TeamTwo from "../components/team/TeamTwo.vue";
+
+
 </script>
 
 <template>
@@ -10,8 +15,7 @@ import PageBanner from "../components/core/PageBanner.vue";
 
   <div class="container py-20">
 
-    <div class="grid grid-cols-4 gap-3">
-    
-    </div>
+    <TeamOne :teams="data.teams_side"/>
+    <TeamTwo :teams="data.teams_circle"/>
   </div>
 </template>
